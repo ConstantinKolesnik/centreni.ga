@@ -1,15 +1,9 @@
 body{
 	background-image: url('../img/paper_2.png');
-
-
-
-
 }
 
-
-
 h1{
-	color: red;
+	color: blue;
 	font-family: 'Roboto Condensed', sans-serif;
 	text-align: center;
 }
